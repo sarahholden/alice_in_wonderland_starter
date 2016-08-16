@@ -1,0 +1,54 @@
+body {
+  font-family: "Neuton", serif;
+  color: #333;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 {
+  font-family: "Playfair Display", serif;
+}
+
+a {
+  font-size: 20px;
+  display: inline-block;
+  margin: 10px;
+  padding-bottom: 6px;
+  text-decoration: none;
+  border-bottom: 2px solid #333;
+}
+
+header {
+  border: 10px solid #333;
+  background-color: #fcee21;
+  padding: 40px 40px 60px;
+  text-align: center; 
+}
+
+header h1 {
+  font-size: 50px;
+}
+
+header a {
+  color: #333;
+}
+
+article {
+  width: 60%;
+  margin: 0 auto;
+}
+
+article p {
+  font-size: 30px;
+}
+
+article h1 {
+  margin-top: 100px; 
+  text-align: center;
+}
+
+footer {
+  border: 10px solid #333;
+  background-color: #fcee21;
+  font-size: 20px; 
+  padding: 15px 80px;
+}
